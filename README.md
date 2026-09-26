@@ -9,11 +9,3 @@
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,postgres,tailwind,js,cs,nodejs,mongodb,redis,docker,prisma,supabase,firebase,gsap,expressjs,nestjs,vue,net,mysql,postgresql,postman,bun)](https://skillicons.dev)
-
-## GitHub Stats
-
-![Palise Watanaviso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hujifaq&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hujifaq&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Hujifaq&theme=tokyonight)
