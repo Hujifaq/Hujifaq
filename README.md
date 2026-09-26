@@ -8,6 +8,6 @@
 
 ## Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,cs,nextjs,react,vue,tailwind,gsap,nodejs,express,nestjs,dotnet,bun,prisma,postgres,mysql,mongodb,redis,supabase,firebase,docker,postman&perline=8" />
 </p>
