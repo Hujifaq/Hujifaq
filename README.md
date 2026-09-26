@@ -8,4 +8,6 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,postgres,tailwind,js,cs,nodejs,mongodb,redis,docker,prisma,supabase,firebase,gsap,expressjs,nestjs,vue,net,mysql,postgresql,postman,bun)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,nextjs,react,vue,tailwind,gsap,nodejs,express,nestjs,dotnet,bun,prisma,postgres,mysql,mongodb,redis,supabase,firebase,docker,postman&perline=8" />
+</p>
