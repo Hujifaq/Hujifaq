@@ -1,4 +1,4 @@
-# I'm Palise Watanaviso
+# Palise Watanaviso
 
 ### Full-Stack Developer - Bangkok, TH
 
