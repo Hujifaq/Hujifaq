@@ -9,5 +9,5 @@
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,nextjs,react,vue,tailwind,gsap,nodejs,express,nestjs,dotnet,bun,prisma,postgres,mysql,mongodb,redis,supabase,firebase,docker,postman,cloudflare&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,nextjs,react,vue,tailwind,gsap,nodejs,express,nestjs,dotnet,bun,prisma,postgres,mysql,mongodb,redis,supabase,firebase,docker,postman,cloudflare,jest,k6&perline=8" />
 </p>
