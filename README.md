@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJqN2J3a3RmcTZvbDU5YmlqNWZpeTNrZnFjZmRreXBrcHMwMTcweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" alt="Banner" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJqN2J3a3RmcTZvbDU5YmlqNWZpeTNrZnFjZmRreXBrcHMwMTcweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" alt="Banner" width="400" />
 </p>
 
 <h1 align="center">Palise Watanaviso</h1>
