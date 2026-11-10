@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![jHR8t1](https://github.com/user-attachments/assets/b67b134f-d988-4807-b61e-666b779a321b)" alt="Banner" width="400" />
+  <img src="https://github.com/user-attachments/assets/b67b134f-d988-4807-b61e-666b779a321b" alt="Banner" width="400" />
 </p>
 
 <h1 align="center">Palise Watanaviso</h1>
