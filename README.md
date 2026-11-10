@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJqN2J3a3RmcTZvbDU5YmlqNWZpeTNrZnFjZmRreXBrcHMwMTcweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif](https://github.com/user-attachments/assets/b67b134f-d988-4807-b61e-666b779a321b)" alt="Banner" width="400" />
+  <img src="![jHR8t1](https://github.com/user-attachments/assets/b67b134f-d988-4807-b61e-666b779a321b)" alt="Banner" width="400" />
 </p>
 
 <h1 align="center">Palise Watanaviso</h1>
